@@ -14,7 +14,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 1,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -29,7 +28,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -44,7 +42,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 1,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -59,7 +56,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -74,7 +70,6 @@
     "rinn2": "feb-26",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 2,
     "rinnovabile": false,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -89,7 +84,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -104,7 +98,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 1,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -119,7 +112,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -134,7 +126,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -149,7 +140,6 @@
     "rinn2": "feb-26",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 2,
     "rinnovabile": false,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -164,7 +154,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -179,7 +168,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -194,7 +182,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -209,7 +196,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -224,7 +210,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 1,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -239,7 +224,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -254,7 +238,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -269,7 +252,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -284,7 +266,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 1,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -299,7 +280,6 @@
     "rinn2": "",
     "opz": "feb-26",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": false,
     "stato": "Confermato (opzione esercitata)"
@@ -314,7 +294,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -329,7 +308,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -344,7 +322,6 @@
     "rinn2": "",
     "opz": "feb-26",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": false,
     "stato": "Confermato (opzione esercitata)"
@@ -359,7 +336,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -374,7 +350,6 @@
     "rinn2": "",
     "opz": "feb-26",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": false,
     "stato": "Confermato (opzione esercitata)"
@@ -389,7 +364,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 1,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -404,7 +378,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -419,7 +392,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -434,7 +406,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -458,7 +429,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -473,7 +443,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 1,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -488,7 +457,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -503,7 +471,6 @@
     "rinn2": "",
     "opz": "feb-26",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": false,
     "stato": "Confermato (opzione esercitata)"
@@ -518,7 +485,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -533,7 +499,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -548,7 +513,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -563,7 +527,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -578,7 +541,6 @@
     "rinn2": "feb-26",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 2,
     "rinnovabile": false,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -593,22 +555,20 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 1,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
    },
    {
-    "ruolo": "B,Dd,E",
-    "nome": "Zappa",
-    "squadraSerieA": "CAG",
+    "ruolo": "",
+    "nome": "Acerbi",
+    "squadraSerieA": "",
     "costo": 3,
     "acquisto": "feb-26",
     "rinn1": "",
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -623,7 +583,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -638,7 +597,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -653,7 +611,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -668,7 +625,6 @@
     "rinn2": "feb-26",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 2,
     "rinnovabile": false,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -683,22 +639,20 @@
     "rinn2": "feb-26",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 2,
     "rinnovabile": false,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
    },
    {
-    "ruolo": "C,T",
-    "nome": "Koopmeiners",
-    "squadraSerieA": "JUV",
+    "ruolo": "",
+    "nome": "Valenti",
+    "squadraSerieA": "",
     "costo": 1,
     "acquisto": "feb-26",
     "rinn1": "",
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -713,7 +667,6 @@
     "rinn2": "feb-26",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 2,
     "rinnovabile": false,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -728,7 +681,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -743,7 +695,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -754,11 +705,10 @@
     "squadraSerieA": "MIL",
     "costo": 83,
     "acquisto": "set-25",
-    "rinn1": "",
+    "rinn1": "feb-26",
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -773,7 +723,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -788,7 +737,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -803,7 +751,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -818,7 +765,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -833,7 +779,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -848,7 +793,6 @@
     "rinn2": "feb-26",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 2,
     "rinnovabile": false,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -863,7 +807,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -878,7 +821,6 @@
     "rinn2": "",
     "opz": "feb-26",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": false,
     "stato": "Confermato (opzione esercitata)"
@@ -902,7 +844,6 @@
     "rinn2": "",
     "opz": "feb-26",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": false,
     "stato": "Confermato (opzione esercitata)"
@@ -917,7 +858,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -932,7 +872,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -947,7 +886,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -962,7 +900,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -977,7 +914,6 @@
     "rinn2": "feb-26",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 2,
     "rinnovabile": false,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -992,7 +928,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -1007,7 +942,6 @@
     "rinn2": "",
     "opz": "feb-26",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": false,
     "stato": "Confermato (opzione esercitata)"
@@ -1022,7 +956,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -1037,7 +970,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 1,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -1052,7 +984,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -1067,7 +998,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 1,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -1082,7 +1012,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -1097,7 +1026,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 1,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -1112,22 +1040,20 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
    },
    {
-    "ruolo": "Dc,Dd",
-    "nome": "Zè Pedro",
-    "squadraSerieA": "CAG",
+    "ruolo": "",
+    "nome": "Caracciolo",
+    "squadraSerieA": "",
     "costo": 1,
     "acquisto": "feb-26",
     "rinn1": "",
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -1142,7 +1068,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -1157,7 +1082,6 @@
     "rinn2": "",
     "opz": "feb-26",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": false,
     "stato": "Confermato (opzione esercitata)"
@@ -1172,7 +1096,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -1187,7 +1110,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -1202,7 +1124,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -1217,7 +1138,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 1,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -1232,7 +1152,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -1247,7 +1166,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -1262,7 +1180,6 @@
     "rinn2": "feb-26",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 2,
     "rinnovabile": false,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -1277,7 +1194,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 1,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -1292,7 +1208,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -1307,7 +1222,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 1,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -1322,7 +1236,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -1346,7 +1259,6 @@
     "rinn2": "",
     "opz": "feb-26",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": false,
     "stato": "Confermato (opzione esercitata)"
@@ -1361,7 +1273,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -1376,7 +1287,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -1391,7 +1301,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -1406,7 +1315,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -1421,7 +1329,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -1436,7 +1343,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -1451,7 +1357,6 @@
     "rinn2": "",
     "opz": "feb-26",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": false,
     "stato": "Confermato (opzione esercitata)"
@@ -1466,7 +1371,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 1,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -1481,7 +1385,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -1496,7 +1399,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -1511,7 +1413,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -1526,7 +1427,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 1,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -1541,7 +1441,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -1556,7 +1455,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 1,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -1571,7 +1469,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -1586,7 +1483,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -1601,7 +1497,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -1616,7 +1511,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -1631,7 +1525,6 @@
     "rinn2": "feb-26",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 2,
     "rinnovabile": false,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -1646,7 +1539,6 @@
     "rinn2": "",
     "opz": "feb-26",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": false,
     "stato": "Confermato (opzione esercitata)"
@@ -1661,7 +1553,6 @@
     "rinn2": "feb-26",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 2,
     "rinnovabile": false,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -1676,7 +1567,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -1691,7 +1581,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -1706,7 +1595,6 @@
     "rinn2": "feb-26",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 2,
     "rinnovabile": false,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -1721,7 +1609,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 1,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -1736,7 +1623,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -1751,7 +1637,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 1,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -1766,7 +1651,6 @@
     "rinn2": "",
     "opz": "feb-26",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": false,
     "stato": "Confermato (opzione esercitata)"
@@ -1790,7 +1674,6 @@
     "rinn2": "feb-26",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 2,
     "rinnovabile": false,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -1805,7 +1688,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -1820,7 +1702,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -1835,7 +1716,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -1850,7 +1730,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -1865,7 +1744,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -1880,7 +1758,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -1891,11 +1768,10 @@
     "squadraSerieA": "INT",
     "costo": 91,
     "acquisto": "set-25",
-    "rinn1": "",
+    "rinn1": "feb-26",
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -1910,7 +1786,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -1925,7 +1800,6 @@
     "rinn2": "feb-26",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 2,
     "rinnovabile": false,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -1940,7 +1814,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -1955,7 +1828,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -1970,7 +1842,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -1985,7 +1856,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -2000,7 +1870,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -2015,7 +1884,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -2030,22 +1898,20 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
    },
    {
-    "ruolo": "M,C",
-    "nome": "Ilkhan",
-    "squadraSerieA": "TOR",
+    "ruolo": "",
+    "nome": "Cataldi",
+    "squadraSerieA": "",
     "costo": 1,
     "acquisto": "feb-26",
     "rinn1": "",
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -2060,7 +1926,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -2075,7 +1940,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -2090,7 +1954,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -2105,7 +1968,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -2120,7 +1982,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -2135,7 +1996,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 1,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -2147,10 +2007,9 @@
     "costo": 361,
     "acquisto": "set-24",
     "rinn1": "feb-25",
-    "rinn2": "####",
+    "rinn2": "?",
     "opz": "set-25",
     "rinn3": "feb-26",
-    "rinnoviFatti": 3,
     "rinnovabile": false,
     "opzionabile": false,
     "stato": "Confermato (rinnovo)"
@@ -2165,7 +2024,6 @@
     "rinn2": "feb-26",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 2,
     "rinnovabile": false,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -2180,7 +2038,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -2195,7 +2052,6 @@
     "rinn2": "feb-26",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 2,
     "rinnovabile": false,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -2210,7 +2066,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 1,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -2234,7 +2089,6 @@
     "rinn2": "feb-26",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 2,
     "rinnovabile": false,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -2249,7 +2103,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -2264,7 +2117,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -2279,7 +2131,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -2294,7 +2145,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -2309,7 +2159,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 1,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -2324,7 +2173,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -2339,7 +2187,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -2354,7 +2201,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -2369,7 +2215,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -2384,7 +2229,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 1,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -2399,7 +2243,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -2414,7 +2257,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -2429,7 +2271,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -2444,7 +2285,6 @@
     "rinn2": "",
     "opz": "feb-26",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": false,
     "stato": "Confermato (opzione esercitata)"
@@ -2459,7 +2299,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -2474,7 +2313,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 1,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -2489,7 +2327,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 1,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -2504,7 +2341,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -2519,7 +2355,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 1,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -2534,7 +2369,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -2549,7 +2383,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -2564,7 +2397,6 @@
     "rinn2": "",
     "opz": "feb-26",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": false,
     "stato": "Confermato (opzione esercitata)"
@@ -2579,7 +2411,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -2594,7 +2425,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 1,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -2609,7 +2439,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 1,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -2624,7 +2453,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -2639,7 +2467,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -2654,7 +2481,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -2678,7 +2504,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 1,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -2693,7 +2518,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -2708,7 +2532,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -2723,7 +2546,6 @@
     "rinn2": "feb-26",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 2,
     "rinnovabile": false,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -2738,7 +2560,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -2753,7 +2574,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -2768,7 +2588,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -2783,7 +2602,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -2798,7 +2616,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -2813,7 +2630,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -2828,7 +2644,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -2843,7 +2658,6 @@
     "rinn2": "feb-26",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 2,
     "rinnovabile": false,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -2858,7 +2672,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -2873,7 +2686,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -2888,7 +2700,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -2903,7 +2714,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -2918,7 +2728,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -2933,7 +2742,6 @@
     "rinn2": "feb-26",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 2,
     "rinnovabile": false,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -2948,7 +2756,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -2963,7 +2770,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 1,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -2978,7 +2784,6 @@
     "rinn2": "",
     "opz": "feb-26",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": false,
     "stato": "Confermato (opzione esercitata)"
@@ -2993,7 +2798,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 1,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -3008,7 +2812,6 @@
     "rinn2": "",
     "opz": "feb-26",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": false,
     "stato": "Confermato (opzione esercitata)"
@@ -3023,7 +2826,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -3038,7 +2840,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -3053,7 +2854,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 1,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -3068,7 +2868,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 1,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -3083,7 +2882,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -3098,7 +2896,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -3122,7 +2919,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -3137,7 +2933,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -3152,7 +2947,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -3167,7 +2961,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 1,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -3182,7 +2975,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -3197,7 +2989,6 @@
     "rinn2": "",
     "opz": "feb-26",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": false,
     "stato": "Confermato (opzione esercitata)"
@@ -3212,7 +3003,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 1,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -3227,7 +3017,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -3242,7 +3031,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 1,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -3257,7 +3045,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -3272,7 +3059,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -3287,7 +3073,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -3302,7 +3087,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -3317,7 +3101,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 1,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -3332,7 +3115,6 @@
     "rinn2": "feb-26",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 2,
     "rinnovabile": false,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -3347,7 +3129,6 @@
     "rinn2": "",
     "opz": "feb-26",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": false,
     "stato": "Confermato (opzione esercitata)"
@@ -3362,7 +3143,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -3377,7 +3157,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -3392,7 +3171,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -3407,7 +3185,6 @@
     "rinn2": "feb-26",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 2,
     "rinnovabile": false,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -3422,7 +3199,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -3437,7 +3213,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -3452,7 +3227,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -3467,7 +3241,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -3482,7 +3255,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -3497,7 +3269,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 1,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -3512,7 +3283,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -3527,7 +3297,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -3542,7 +3311,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 1,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -3566,7 +3334,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -3581,7 +3348,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -3596,7 +3362,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -3611,7 +3376,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -3626,7 +3390,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -3641,7 +3404,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 1,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -3656,7 +3418,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -3671,7 +3432,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -3686,7 +3446,6 @@
     "rinn2": "feb-26",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 2,
     "rinnovabile": false,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -3701,7 +3460,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 1,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -3716,7 +3474,6 @@
     "rinn2": "feb-26",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 2,
     "rinnovabile": false,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -3731,7 +3488,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -3746,7 +3502,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 1,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -3761,7 +3516,6 @@
     "rinn2": "",
     "opz": "feb-26",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": false,
     "stato": "Confermato (opzione esercitata)"
@@ -3776,7 +3530,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 1,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -3791,7 +3544,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -3806,7 +3558,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -3821,7 +3572,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -3836,7 +3586,6 @@
     "rinn2": "feb-26",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 2,
     "rinnovabile": false,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -3851,7 +3600,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -3866,7 +3614,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -3881,7 +3628,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -3896,7 +3642,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -3911,7 +3656,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -3926,7 +3670,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -3941,7 +3684,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -3956,7 +3698,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -3971,7 +3712,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 1,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -3986,7 +3726,6 @@
     "rinn2": "",
     "opz": "feb-26",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": false,
     "stato": "Confermato (opzione esercitata)"
@@ -4010,7 +3749,6 @@
     "rinn2": "feb-26",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 2,
     "rinnovabile": false,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -4025,7 +3763,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -4040,7 +3777,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -4055,7 +3791,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -4070,7 +3805,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -4085,7 +3819,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -4100,7 +3833,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -4115,7 +3847,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -4130,7 +3861,6 @@
     "rinn2": "",
     "opz": "feb-26",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": false,
     "stato": "Confermato (opzione esercitata)"
@@ -4145,7 +3875,6 @@
     "rinn2": "feb-26",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 2,
     "rinnovabile": false,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -4160,7 +3889,6 @@
     "rinn2": "feb-26",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 2,
     "rinnovabile": false,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -4175,7 +3903,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -4190,7 +3917,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -4205,7 +3931,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -4220,7 +3945,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -4235,7 +3959,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 1,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -4250,7 +3973,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -4265,7 +3987,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -4280,7 +4001,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 1,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -4295,7 +4015,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 1,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -4310,7 +4029,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -4325,7 +4043,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 1,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -4340,7 +4057,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -4355,7 +4071,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -4370,7 +4085,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -4385,7 +4099,6 @@
     "rinn2": "feb-26",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 2,
     "rinnovabile": false,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
@@ -4400,7 +4113,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -4415,7 +4127,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
@@ -4430,7 +4141,6 @@
     "rinn2": "",
     "opz": "",
     "rinn3": "",
-    "rinnoviFatti": 0,
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"

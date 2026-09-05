@@ -135,7 +135,6 @@ function renderTable(team) {
       <th>Rinn. 2</th>
       <th>Opz.</th>
       <th>Rinn. 3</th>
-      <th style="text-align:center">Rinnovi</th>
       <th>Rinnovabile</th>
       <th>Opzionabile</th>
       <th>Stato</th>
@@ -152,7 +151,6 @@ function renderTable(team) {
         <td class="date-cell">${p.rinn2 || '—'}</td>
         <td class="date-cell">${p.opz || '—'}</td>
         <td class="date-cell">${p.rinn3 || '—'}</td>
-        <td style="text-align:center">${p.rinnoviFatti}</td>
         <td>${p.rinnovabile ? '<span class="tag-si">SÌ</span>' : '<span class="tag-no">NO</span>'}</td>
         <td>${p.opzionabile ? '<span class="tag-si">SÌ</span>' : '<span class="tag-no">NO</span>'}</td>
         <td class="stato-cell">${p.stato}</td>
