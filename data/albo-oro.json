@@ -1,0 +1,123 @@
+{
+  "attuali": [
+    {
+      "id": "pappone-united",
+      "nome": "Pappone United",
+      "manager": "Roberto Capasso",
+      "oro": 1,
+      "argento": 0,
+      "bronzo": 0,
+      "coppe": 0
+    },
+    {
+      "id": "as-spiaze",
+      "nome": "As Spiaze",
+      "manager": "Simone de Martino",
+      "oro": 0,
+      "argento": 1,
+      "bronzo": 2,
+      "coppe": 2
+    },
+    {
+      "id": "brigate-ebosse",
+      "nome": "Brigate Ebosse",
+      "manager": "Antonio Rianna & Peppe Del Re",
+      "oro": 2,
+      "argento": 0,
+      "bronzo": 0,
+      "coppe": 0
+    },
+    {
+      "id": "obbinatos",
+      "nome": "Obbinatos",
+      "manager": "Vittorio Orbinato",
+      "oro": 0,
+      "argento": 0,
+      "bronzo": 0,
+      "coppe": 0
+    },
+    {
+      "id": "real-pane-spugna",
+      "nome": "Real Pane Spugna",
+      "manager": "Ciro Sannino & Ivan Alaia",
+      "oro": 1,
+      "argento": 1,
+      "bronzo": 0,
+      "coppe": 2
+    },
+    {
+      "id": "ac-ciughina",
+      "nome": "Ac Ciughina",
+      "manager": "Alessandro Cozzolino & Duccio",
+      "oro": 1,
+      "argento": 0,
+      "bronzo": 0,
+      "coppe": 0
+    },
+    {
+      "id": "pro-secco",
+      "nome": "Pro Secco",
+      "manager": "Francesco Nutini & Gaggy",
+      "oro": 0,
+      "argento": 0,
+      "bronzo": 0,
+      "coppe": 0
+    },
+    {
+      "id": "ngr-das-porto",
+      "nome": "NGR DAS Porto",
+      "manager": "Antonio Monti & Sasy Ferrara",
+      "oro": 0,
+      "argento": 2,
+      "bronzo": 0,
+      "coppe": 0
+    },
+    {
+      "id": "il-gufo-team",
+      "nome": "Il Gufo Team",
+      "manager": "Cristian Paparo",
+      "oro": 0,
+      "argento": 0,
+      "bronzo": 0,
+      "coppe": 0
+    },
+    {
+      "id": "ssc-ultea",
+      "nome": "SSC Ultea",
+      "manager": "Giorgio Battaglia & Simone Battaglia",
+      "oro": 0,
+      "argento": 0,
+      "bronzo": 0,
+      "coppe": 0
+    }
+  ],
+  "storiche": [
+    {
+      "id": "park-real-fcdf",
+      "nome": "Park Real FCdF",
+      "manager": "Pietro (\"a barb\")",
+      "oro": 0,
+      "argento": 0,
+      "bronzo": 1,
+      "coppe": 1
+    },
+    {
+      "id": "ienapane-fc",
+      "nome": "IenaPane FC",
+      "manager": "Ivan & Francesco Rianna",
+      "oro": 0,
+      "argento": 0,
+      "bronzo": 1,
+      "coppe": 0
+    },
+    {
+      "id": "pietropaolo",
+      "nome": "Squadra di Pietropaolo",
+      "manager": "Pietropaolo",
+      "oro": 0,
+      "argento": 0,
+      "bronzo": 0,
+      "coppe": 0
+    }
+  ]
+}
