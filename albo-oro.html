@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Albo d'oro — Fantamanager 26/27</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+<nav class="site-nav">
+  <div class="wrap">
+    <a href="index.html" class="brand"><span class="brand-mark">●</span> Fantamanager <span class="brand-year">26/27</span></a>
+    <button class="nav-toggle" aria-label="Apri menu">☰</button>
+    <ul class="nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="rose.html">Rose</a></li>
+      <li><a href="regolamento.html">Regolamento</a></li>
+      <li><a href="albo-oro.html" class="active">Albo d'oro</a></li>
+    </ul>
+  </div>
+</nav>
+
+<header class="page-head">
+  <div class="wrap">
+    <p class="hero-kicker">Storia della lega</p>
+    <h1>Albo d'oro</h1>
+    <p>Vittorie del campionato, piazzamenti sul podio e coppe (Summer Cup / Winter Cup) vinte da ogni squadra, dalla stagione 2021/2022 a oggi.</p>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <div id="podium" class="podium"></div>
+
+  <section class="block" style="padding-top:0;">
+    <h2>Classifica generale per palmarès</h2>
+    <p class="sub">Ordinata per un punteggio che pesa 1° posto, 2° posto, 3° posto e coppe vinte.</p>
+    <div class="hof-table-wrap">
+      <table class="hof-table">
+        <thead>
+          <tr>
+            <th>Squadra</th>
+            <th>Fantallenatore</th>
+            <th class="medal-cell">🥇</th>
+            <th class="medal-cell">🥈</th>
+            <th class="medal-cell">🥉</th>
+            <th class="medal-cell">🏆</th>
+          </tr>
+        </thead>
+        <tbody id="hof-body"></tbody>
+      </table>
+    </div>
+    <p class="hof-note">🏆 indica la vittoria di una coppa di lega (Summer Cup o Winter Cup, vedi <a href="regolamento.html" style="color:var(--gold-bright)">regolamento</a>).</p>
+  </section>
+
+  <section class="block" style="padding-top:0;">
+    <button class="former-toggle" id="former-toggle">Mostra le squadre non più in lega</button>
+    <div class="former-section" id="former-section">
+      <table class="hof-table">
+        <thead>
+          <tr>
+            <th>Squadra</th>
+            <th>Fantallenatore</th>
+            <th class="medal-cell">🥇</th>
+            <th class="medal-cell">🥈</th>
+            <th class="medal-cell">🥉</th>
+            <th class="medal-cell">🏆</th>
+          </tr>
+        </thead>
+        <tbody id="former-body"></tbody>
+      </table>
+    </div>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <span>Fantamanager 26/27 — lega privata</span>
+    <span>Palmarès aggiornato a fine stagione 2025/26</span>
+  </div>
+</footer>
+
+<script src="assets/js/common.js"></script>
+<script src="assets/js/albo-oro.js"></script>
+</body>
+</html>

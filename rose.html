@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Rose &amp; contratti — Fantamanager 26/27</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+<nav class="site-nav">
+  <div class="wrap">
+    <a href="index.html" class="brand"><span class="brand-mark">●</span> Fantamanager <span class="brand-year">26/27</span></a>
+    <button class="nav-toggle" aria-label="Apri menu">☰</button>
+    <ul class="nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="rose.html" class="active">Rose</a></li>
+      <li><a href="regolamento.html">Regolamento</a></li>
+      <li><a href="albo-oro.html">Albo d'oro</a></li>
+    </ul>
+  </div>
+</nav>
+
+<header class="page-head">
+  <div class="wrap">
+    <p class="hero-kicker">Rose 26/27</p>
+    <h1>Rose &amp; situazione contrattuale</h1>
+    <p>Ogni giocatore mostra come è stato acquisito e cosa potrà succedergli alla prossima sessione: rinnovo, sola opzione o scadenza del contratto.</p>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <div class="team-picker" id="team-picker"></div>
+
+  <div class="team-summary">
+    <div>
+      <h2 id="team-name">—</h2>
+      <span class="manager" id="team-manager">—</span>
+    </div>
+    <div class="team-metrics">
+      <div><span class="num" id="metric-giocatori">—</span><span class="label">Giocatori</span></div>
+      <div><span class="num" id="metric-speso">—</span><span class="label">Speso (FM)</span></div>
+      <div><span class="num" id="metric-residuo">—</span><span class="label">Su 1000 FM</span></div>
+    </div>
+  </div>
+
+  <div class="filters" id="filters">
+    <button class="filter-btn" data-filter="tutti" data-label="Tutti">Tutti</button>
+    <button class="filter-btn" data-filter="rinnovabile" data-label="Rinnovabile">Rinnovabile</button>
+    <button class="filter-btn" data-filter="soloOpzione" data-label="Solo opzionabile">Solo opzionabile</button>
+    <button class="filter-btn" data-filter="scadenza" data-label="In scadenza">In scadenza</button>
+    <input type="search" id="player-search" placeholder="Cerca giocatore…" style="margin-left:auto; background:var(--pitch-800); border:1px solid var(--line); color:var(--cream); padding:8px 14px; border-radius:4px; font-size:0.88rem; min-width:180px;">
+  </div>
+
+  <div class="roster-table-wrap" id="roster-table-wrap">
+    <table class="roster-table">
+      <thead>
+        <tr>
+          <th>Ruolo</th>
+          <th>Giocatore</th>
+          <th>Squadra Serie A</th>
+          <th>Origine</th>
+          <th>Prossima sessione</th>
+          <th style="text-align:right">Costo (FM)</th>
+        </tr>
+      </thead>
+      <tbody id="roster-body"></tbody>
+    </table>
+  </div>
+  <p class="empty-state" id="empty-state" style="display:none;">Nessun giocatore trovato con questi filtri.</p>
+
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <span>Fantamanager 26/27 — lega privata</span>
+    <span><a href="regolamento.html" style="color:var(--gold-bright); text-decoration:none;">Regole su rinnovi e opzioni →</a></span>
+  </div>
+</footer>
+
+<script src="assets/js/common.js"></script>
+<script src="assets/js/rose.js"></script>
+</body>
+</html>
