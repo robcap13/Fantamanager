@@ -93,9 +93,22 @@
 <script>
   async function renderHomeTeams() {
     try {
-      const teams = await loadJSON('albo-oro.json');
+      const data = await loadJSON('albo-oro.json');
+      const totals = {};
+      Object.entries(data.squadre).forEach(([id, info]) => {
+        totals[id] = { nome: info.nome, manager: info.manager, attiva: info.attiva, oro: 0, argento: 0, bronzo: 0, coppe: 0 };
+      });
+      data.stagioni.forEach((s) => {
+        if (s.primo && totals[s.primo]) totals[s.primo].oro++;
+        if (s.secondo && totals[s.secondo]) totals[s.secondo].argento++;
+        if (s.terzo && totals[s.terzo]) totals[s.terzo].bronzo++;
+        (s.coppe || []).forEach((tid) => { if (totals[tid]) totals[tid].coppe++; });
+      });
+
       const tbody = document.getElementById('home-teams-body');
-      const rows = [...teams.attuali].sort((a, b) => a.nome.localeCompare(b.nome, 'it'));
+      const rows = Object.values(totals)
+        .filter(t => t.attiva)
+        .sort((a, b) => a.nome.localeCompare(b.nome, 'it'));
       tbody.innerHTML = rows.map(t => {
         const medals = [];
         if (t.oro) medals.push(`<span>🥇 ${t.oro}</span>`);

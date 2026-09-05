@@ -455,6 +455,59 @@ section.block .sub {
   font-size: 0.78rem;
 }
 
+.view-toggle {
+  display: flex;
+  gap: 8px;
+  padding-top: 24px;
+}
+
+.view-btn {
+  font-size: 0.85rem;
+  font-weight: 600;
+  padding: 8px 16px;
+  border-radius: var(--radius-s);
+  border: 1px solid var(--line);
+  background: transparent;
+  color: var(--cream-dim);
+  cursor: pointer;
+}
+
+.view-btn.active {
+  background: var(--pitch-700);
+  color: var(--cream);
+  border-color: var(--pitch-600);
+}
+
+.date-cell {
+  color: var(--ink-soft);
+  font-size: 0.85rem;
+  white-space: nowrap;
+}
+
+.stato-cell {
+  font-size: 0.85rem;
+  color: var(--ink-soft);
+  white-space: nowrap;
+}
+
+.tag-si, .tag-no {
+  font-family: var(--font-display);
+  font-size: 0.72rem;
+  font-weight: 700;
+  padding: 2px 8px;
+  border-radius: 999px;
+}
+
+.tag-si {
+  background: rgba(39, 92, 65, 0.18);
+  color: #1b4332;
+}
+
+.tag-no {
+  background: rgba(179, 56, 44, 0.15);
+  color: var(--card-red);
+}
+
 .filters {
   display: flex;
   flex-wrap: wrap;
@@ -833,6 +886,24 @@ section.block .sub {
   font-size: 0.88rem;
   padding: 8px 0 40px;
   max-width: 64ch;
+}
+
+.prov-badge {
+  display: inline-block;
+  font-family: var(--font-body);
+  font-size: 0.65rem;
+  font-weight: 700;
+  text-transform: none;
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: rgba(201, 162, 39, 0.2);
+  color: var(--gold-bright);
+  margin-left: 6px;
+  vertical-align: middle;
+}
+
+.season-provisional td {
+  opacity: 0.85;
 }
 
 .former-toggle {
