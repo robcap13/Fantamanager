@@ -1,123 +1,56 @@
 {
-  "attuali": [
+  "squadre": {
+    "pappone-united": { "nome": "Pappone United", "manager": "Roberto Capasso", "attiva": true },
+    "as-spiaze": { "nome": "As Spiaze", "manager": "Simone de Martino", "attiva": true },
+    "real-pane-spugna": { "nome": "Real Pane Spugna", "manager": "Ciro Sannino & Ivan Alaia", "attiva": true },
+    "ac-ciughina": { "nome": "Ac Ciughina", "manager": "Alessandro Cozzolino & Duccio", "attiva": true },
+    "ngr-das-porto": { "nome": "NGR DAS Porto", "manager": "Antonio Monti & Sasy Ferrara", "attiva": true },
+    "obbinatos": { "nome": "Obbinatos", "manager": "Vittorio Orbinato", "attiva": true },
+    "il-gufo-team": { "nome": "Il Gufo Team", "manager": "Cristian Paparo", "attiva": true },
+    "pro-secco": { "nome": "Pro Secco", "manager": "Francesco Nutini & Gaggy", "attiva": true },
+    "brigate-ebosse": { "nome": "Brigate Ebosse", "manager": "Antonio Rianna & Peppe Del Re", "attiva": true },
+    "ssc-ultea": { "nome": "SSC Ultea", "manager": "Giorgio Battaglia & Simone Battaglia", "attiva": true },
+    "park-real-fcdf": { "nome": "Park Real FCdF", "manager": "Pietro (\"a barb\")", "attiva": false },
+    "ienapane-fc": { "nome": "IenaPane FC", "manager": "Ivan & Francesco Rianna", "attiva": false },
+    "pietropaolo": { "nome": "Squadra di Pietropaolo", "manager": "Pietropaolo", "attiva": false }
+  },
+  "stagioni": [
     {
-      "id": "pappone-united",
-      "nome": "Pappone United",
-      "manager": "Roberto Capasso",
-      "oro": 1,
-      "argento": 0,
-      "bronzo": 0,
-      "coppe": 0
+      "label": "2021/22",
+      "primo": "real-pane-spugna",
+      "secondo": null,
+      "terzo": "as-spiaze",
+      "coppe": [],
+      "provvisoria": true
     },
     {
-      "id": "as-spiaze",
-      "nome": "As Spiaze",
-      "manager": "Simone de Martino",
-      "oro": 0,
-      "argento": 1,
-      "bronzo": 2,
-      "coppe": 2
+      "label": "2022/23",
+      "primo": "ac-ciughina",
+      "secondo": "as-spiaze",
+      "terzo": null,
+      "coppe": [],
+      "provvisoria": true
     },
     {
-      "id": "brigate-ebosse",
-      "nome": "Brigate Ebosse",
-      "manager": "Antonio Rianna & Peppe Del Re",
-      "oro": 2,
-      "argento": 0,
-      "bronzo": 0,
-      "coppe": 0
+      "label": "2023/24",
+      "primo": "pappone-united",
+      "secondo": "real-pane-spugna",
+      "terzo": "pro-secco",
+      "coppe": ["as-spiaze", "real-pane-spugna"]
     },
     {
-      "id": "obbinatos",
-      "nome": "Obbinatos",
-      "manager": "Vittorio Orbinato",
-      "oro": 0,
-      "argento": 0,
-      "bronzo": 0,
-      "coppe": 0
+      "label": "2024/25",
+      "primo": "brigate-ebosse",
+      "secondo": "ngr-das-porto",
+      "terzo": "park-real-fcdf",
+      "coppe": ["park-real-fcdf", "real-pane-spugna"]
     },
     {
-      "id": "real-pane-spugna",
-      "nome": "Real Pane Spugna",
-      "manager": "Ciro Sannino & Ivan Alaia",
-      "oro": 1,
-      "argento": 1,
-      "bronzo": 0,
-      "coppe": 2
-    },
-    {
-      "id": "ac-ciughina",
-      "nome": "Ac Ciughina",
-      "manager": "Alessandro Cozzolino & Duccio",
-      "oro": 1,
-      "argento": 0,
-      "bronzo": 0,
-      "coppe": 0
-    },
-    {
-      "id": "pro-secco",
-      "nome": "Pro Secco",
-      "manager": "Francesco Nutini & Gaggy",
-      "oro": 0,
-      "argento": 0,
-      "bronzo": 0,
-      "coppe": 0
-    },
-    {
-      "id": "ngr-das-porto",
-      "nome": "NGR DAS Porto",
-      "manager": "Antonio Monti & Sasy Ferrara",
-      "oro": 0,
-      "argento": 2,
-      "bronzo": 0,
-      "coppe": 0
-    },
-    {
-      "id": "il-gufo-team",
-      "nome": "Il Gufo Team",
-      "manager": "Cristian Paparo",
-      "oro": 0,
-      "argento": 0,
-      "bronzo": 0,
-      "coppe": 0
-    },
-    {
-      "id": "ssc-ultea",
-      "nome": "SSC Ultea",
-      "manager": "Giorgio Battaglia & Simone Battaglia",
-      "oro": 0,
-      "argento": 0,
-      "bronzo": 0,
-      "coppe": 0
-    }
-  ],
-  "storiche": [
-    {
-      "id": "park-real-fcdf",
-      "nome": "Park Real FCdF",
-      "manager": "Pietro (\"a barb\")",
-      "oro": 0,
-      "argento": 0,
-      "bronzo": 1,
-      "coppe": 1
-    },
-    {
-      "id": "ienapane-fc",
-      "nome": "IenaPane FC",
-      "manager": "Ivan & Francesco Rianna",
-      "oro": 0,
-      "argento": 0,
-      "bronzo": 1,
-      "coppe": 0
-    },
-    {
-      "id": "pietropaolo",
-      "nome": "Squadra di Pietropaolo",
-      "manager": "Pietropaolo",
-      "oro": 0,
-      "argento": 0,
-      "bronzo": 0,
-      "coppe": 0
+      "label": "2025/26",
+      "primo": "brigate-ebosse",
+      "secondo": "real-pane-spugna",
+      "terzo": "as-spiaze",
+      "coppe": ["as-spiaze", "brigate-ebosse"]
     }
   ]
 }
