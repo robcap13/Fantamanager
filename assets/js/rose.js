@@ -113,16 +113,12 @@ function renderTable(team) {
     players.forEach((p) => {
       const meta = STATUS_META[statusKey(p)];
       const tr = document.createElement('tr');
-      if (p.opz) tr.classList.add('row-last-action');
-      const lastActionBadge = p.opz
-        ? '<span class="last-action-badge" title="Opzione già esercitata in questo contratto: questa è l\'ultima azione (rinnovo o opzione) prima del mercato — vedi regolamento">Ultima azione</span>'
-        : '';
       tr.innerHTML = `
         <td><span class="role-pill">${p.ruolo || '—'}</span></td>
         <td class="player-name">${p.nome}</td>
         <td class="serieA">${p.squadraSerieA || '—'}</td>
         <td>${p.stato}</td>
-        <td><span class="status-pill ${meta.cls}">${meta.label}</span> ${lastActionBadge}</td>
+        <td><span class="status-pill ${meta.cls}">${meta.label}</span></td>
         <td class="cost">${formatCurrency(p.costo)}</td>
       `;
       tbody.appendChild(tr);
@@ -145,9 +141,7 @@ function renderTable(team) {
     `;
     players.forEach((p) => {
       const tr = document.createElement('tr');
-      if (p.opz) tr.classList.add('row-last-action');
-      const opzCell = p.opz ? `<span class="opz-used" title="Opzione esercitata">${p.opz}</span>` : '—';
-      const rinnovabileCell = p.rinnovabile
+      const opzionabileCell = p.opzionabile
         ? (p.opz
             ? '<span class="tag-si">SÌ</span> <span class="last-action-badge" title="Opzione già esercitata su questo contratto: questa è l\'ultima azione (rinnovo o opzione) prima del mercato">Ultima azione</span>'
             : '<span class="tag-si">SÌ</span>')
@@ -160,10 +154,10 @@ function renderTable(team) {
         <td class="date-cell">${p.acquisto || '—'}</td>
         <td class="date-cell">${p.rinn1 || '—'}</td>
         <td class="date-cell">${p.rinn2 || '—'}</td>
-        <td class="date-cell">${opzCell}</td>
+        <td class="date-cell">${p.opz || '—'}</td>
         <td class="date-cell">${p.rinn3 || '—'}</td>
-        <td style="white-space:nowrap;">${rinnovabileCell}</td>
-        <td>${p.opzionabile ? '<span class="tag-si">SÌ</span>' : '<span class="tag-no">NO</span>'}</td>
+        <td>${p.rinnovabile ? '<span class="tag-si">SÌ</span>' : '<span class="tag-no">NO</span>'}</td>
+        <td style="white-space:nowrap;">${opzionabileCell}</td>
         <td class="stato-cell">${p.stato}</td>
       `;
       tbody.appendChild(tr);
