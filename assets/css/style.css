@@ -478,6 +478,10 @@ section.block .sub {
   border-color: var(--pitch-600);
 }
 
+.row-last-action td {
+  box-shadow: inset 3px 0 0 var(--card-red);
+}
+
 .last-action-badge {
   display: inline-block;
   font-family: var(--font-body);
