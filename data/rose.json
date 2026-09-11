@@ -287,7 +287,7 @@
     "opz": "feb-26",
     "rinn3": "",
     "rinnovabile": true,
-    "opzionabile": false,
+    "opzionabile": true,
     "stato": "Confermato (opzione esercitata)"
    },
    {
@@ -330,7 +330,7 @@
     "opz": "feb-26",
     "rinn3": "",
     "rinnovabile": true,
-    "opzionabile": false,
+    "opzionabile": true,
     "stato": "Confermato (opzione esercitata)",
     "fuoriSerieA": true
    },
@@ -359,7 +359,7 @@
     "opz": "feb-26",
     "rinn3": "",
     "rinnovabile": true,
-    "opzionabile": false,
+    "opzionabile": true,
     "stato": "Confermato (opzione esercitata)"
    },
    {
@@ -482,7 +482,7 @@
     "opz": "feb-26",
     "rinn3": "",
     "rinnovabile": true,
-    "opzionabile": false,
+    "opzionabile": true,
     "stato": "Confermato (opzione esercitata)"
    },
    {
@@ -838,7 +838,7 @@
     "opz": "feb-26",
     "rinn3": "",
     "rinnovabile": true,
-    "opzionabile": false,
+    "opzionabile": true,
     "stato": "Confermato (opzione esercitata)"
    }
   ],
@@ -861,7 +861,7 @@
     "opz": "feb-26",
     "rinn3": "",
     "rinnovabile": true,
-    "opzionabile": false,
+    "opzionabile": true,
     "stato": "Confermato (opzione esercitata)"
    },
    {
@@ -959,7 +959,7 @@
     "opz": "feb-26",
     "rinn3": "",
     "rinnovabile": true,
-    "opzionabile": false,
+    "opzionabile": true,
     "stato": "Confermato (opzione esercitata)",
     "fuoriSerieA": true
    },
@@ -1103,7 +1103,7 @@
     "opz": "feb-26",
     "rinn3": "",
     "rinnovabile": true,
-    "opzionabile": false,
+    "opzionabile": true,
     "stato": "Confermato (opzione esercitata)"
    },
    {
@@ -1283,7 +1283,7 @@
     "opz": "feb-26",
     "rinn3": "",
     "rinnovabile": true,
-    "opzionabile": false,
+    "opzionabile": true,
     "stato": "Confermato (opzione esercitata)"
    },
    {
@@ -1382,7 +1382,7 @@
     "opz": "feb-26",
     "rinn3": "",
     "rinnovabile": true,
-    "opzionabile": false,
+    "opzionabile": true,
     "stato": "Confermato (opzione esercitata)"
    },
    {
@@ -1566,7 +1566,7 @@
     "opz": "feb-26",
     "rinn3": "",
     "rinnovabile": true,
-    "opzionabile": false,
+    "opzionabile": true,
     "stato": "Confermato (opzione esercitata)"
    },
    {
@@ -2041,7 +2041,7 @@
     "opz": "set-25",
     "rinn3": "feb-26",
     "rinnovabile": false,
-    "opzionabile": false,
+    "opzionabile": true,
     "stato": "Confermato (rinnovo)"
    },
    {
@@ -2316,7 +2316,7 @@
     "opz": "feb-26",
     "rinn3": "",
     "rinnovabile": true,
-    "opzionabile": false,
+    "opzionabile": true,
     "stato": "Confermato (opzione esercitata)"
    },
    {
@@ -2428,7 +2428,7 @@
     "opz": "feb-26",
     "rinn3": "",
     "rinnovabile": true,
-    "opzionabile": false,
+    "opzionabile": true,
     "stato": "Confermato (opzione esercitata)"
    },
    {
@@ -2806,7 +2806,7 @@
     "opz": "feb-26",
     "rinn3": "",
     "rinnovabile": true,
-    "opzionabile": false,
+    "opzionabile": true,
     "stato": "Confermato (opzione esercitata)"
    },
    {
@@ -2834,7 +2834,7 @@
     "opz": "feb-26",
     "rinn3": "",
     "rinnovabile": true,
-    "opzionabile": false,
+    "opzionabile": true,
     "stato": "Confermato (opzione esercitata)"
    },
    {
@@ -3014,7 +3014,7 @@
     "opz": "feb-26",
     "rinn3": "",
     "rinnovabile": true,
-    "opzionabile": false,
+    "opzionabile": true,
     "stato": "Confermato (opzione esercitata)"
    },
    {
@@ -3154,7 +3154,7 @@
     "opz": "feb-26",
     "rinn3": "",
     "rinnovabile": true,
-    "opzionabile": false,
+    "opzionabile": true,
     "stato": "Confermato (opzione esercitata)"
    },
    {
@@ -3542,7 +3542,7 @@
     "opz": "feb-26",
     "rinn3": "",
     "rinnovabile": true,
-    "opzionabile": false,
+    "opzionabile": true,
     "stato": "Confermato (opzione esercitata)"
    },
    {
@@ -3756,7 +3756,7 @@
     "opz": "feb-26",
     "rinn3": "",
     "rinnovabile": true,
-    "opzionabile": false,
+    "opzionabile": true,
     "stato": "Confermato (opzione esercitata)"
    },
    {
