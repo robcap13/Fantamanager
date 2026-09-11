@@ -113,12 +113,15 @@ function renderTable(team) {
     players.forEach((p) => {
       const meta = STATUS_META[statusKey(p)];
       const tr = document.createElement('tr');
+      const lastActionBadge = p.opz
+        ? '<span class="last-action-badge" title="Opzione già esercitata in questo contratto: questa è l\'ultima azione (rinnovo o opzione) prima del mercato — vedi regolamento">Ultima azione</span>'
+        : '';
       tr.innerHTML = `
         <td><span class="role-pill">${p.ruolo || '—'}</span></td>
         <td class="player-name">${p.nome}</td>
         <td class="serieA">${p.squadraSerieA || '—'}</td>
         <td>${p.stato}</td>
-        <td><span class="status-pill ${meta.cls}">${meta.label}</span></td>
+        <td><span class="status-pill ${meta.cls}">${meta.label}</span> ${lastActionBadge}</td>
         <td class="cost">${formatCurrency(p.costo)}</td>
       `;
       tbody.appendChild(tr);
@@ -141,6 +144,7 @@ function renderTable(team) {
     `;
     players.forEach((p) => {
       const tr = document.createElement('tr');
+      const opzCell = p.opz ? `<span class="opz-used" title="Opzione esercitata">${p.opz}</span>` : '—';
       tr.innerHTML = `
         <td><span class="role-pill">${p.ruolo || '—'}</span></td>
         <td class="player-name">${p.nome}</td>
@@ -149,11 +153,11 @@ function renderTable(team) {
         <td class="date-cell">${p.acquisto || '—'}</td>
         <td class="date-cell">${p.rinn1 || '—'}</td>
         <td class="date-cell">${p.rinn2 || '—'}</td>
-        <td class="date-cell">${p.opz || '—'}</td>
+        <td class="date-cell">${opzCell}</td>
         <td class="date-cell">${p.rinn3 || '—'}</td>
         <td>${p.rinnovabile ? '<span class="tag-si">SÌ</span>' : '<span class="tag-no">NO</span>'}</td>
         <td>${p.opzionabile ? '<span class="tag-si">SÌ</span>' : '<span class="tag-no">NO</span>'}</td>
-        <td class="stato-cell">${p.stato}</td>
+        <td class="stato-cell">${p.stato}${p.opz ? ' <span class="last-action-badge" title="Ultima azione disponibile prima del mercato">Ultima azione</span>' : ''}</td>
       `;
       tbody.appendChild(tr);
     });
