@@ -224,8 +224,30 @@
       <p>Se un giocatore viene listato in un ruolo diverso rispetto all'anno precedente, e fantacalcio.it lo inserisce tra i giocatori con ruolo editabile, manterrà il ruolo con cui era stato originariamente aggiudicato all'asta. Se invece torna sul mercato (contratto non rinnovato o giocatore opzionato), assumerà il ruolo assegnato da fantacalcio.it per quella stagione.</p>
 
       <h3>Sistema riconferme — anno 2</h3>
-      <p>Dall'anno 2 (settembre dell'anno prossimo) il sistema delle riconferme cambia: si passa da 1 sola riconferma per giocatore a <strong>2 riconferme</strong> (es. compro a settembre, rinnovo a gennaio ed eventualmente di nuovo a settembre dell'anno successivo), con la possibilità di un ulteriore rinnovo anche dopo aver esercitato il diritto di opzione.</p>
-      <div class="callout">Caso limite: compro a settembre, rinnovo a gennaio, rinnovo di nuovo a settembre. A gennaio dell'anno successivo posso opzionare il giocatore, riacquistarlo, rinnovargli il contratto ancora a settembre e infine metterlo sul mercato a gennaio successivo — per un totale di 2 stagioni e mezzo col giocatore in rosa.</div>
+      <p>Dall'anno 2 (settembre dell'anno prossimo) ogni contratto può ricevere, nell'arco della sua vita, <strong>al massimo 2 rinnovi</strong> e <strong>1 opzione</strong>, in qualsiasi ordine. La parte che genera più dubbi è cosa succede quando l'opzione viene esercitata <em>prima</em> di aver esaurito i 2 rinnovi disponibili — vediamola nel dettaglio.</p>
+
+      <div class="callout">
+        <strong>Regola chiave:</strong> nel momento in cui un contratto viene opzionato (che sia la prima, la seconda o anche subito la prima mossa disponibile), quel contratto riceve automaticamente <strong>un'ultima azione</strong> — a scelta tra rinnovo o nuova opzione — prima di tornare obbligatoriamente sul mercato. Eventuali rinnovi non ancora sfruttati a quel punto vengono assorbiti in quest'unica azione finale, non si accumulano.
+      </div>
+
+      <p>In pratica, da quando un contratto viene opzionato, resta sempre e solo <strong>un'azione finale</strong> disponibile — mai due. Ecco i tre possibili percorsi:</p>
+
+      <table>
+        <thead>
+          <tr><th>Percorso</th><th>Sequenza</th><th>Estensioni totali</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Opzione dopo 2 rinnovi</td><td>Acquisto → Rinnovo → Rinnovo → Opzione → <strong>azione finale</strong> (rinnovo o opzione) → mercato</td><td>4</td></tr>
+          <tr><td>Opzione dopo 1 rinnovo</td><td>Acquisto → Rinnovo → Opzione → <strong>azione finale</strong> (rinnovo o opzione) → mercato</td><td>3</td></tr>
+          <tr><td>Opzione subito</td><td>Acquisto → Opzione → <strong>azione finale</strong> (rinnovo o opzione) → mercato</td><td>2</td></tr>
+        </tbody>
+      </table>
+
+      <p>Sulla pagina <a class="ext-link" href="rose.html">Rose</a> del sito, un contratto che ha già subito un'opzione ed è quindi arrivato alla sua ultima azione disponibile viene segnalato con l'etichetta <strong>"Ultima azione"</strong> accanto allo stato del contratto.</p>
+
+      <div class="callout">Esempio (opzione dopo entrambi i rinnovi): compro a settembre, rinnovo a gennaio, rinnovo di nuovo a settembre — 2 rinnovi esauriti. A gennaio dell'anno successivo lo opziono: da qui in poi ho una sola azione finale a disposizione, non due. La sfrutto rinnovandolo ancora a settembre. A gennaio successivo il giocatore torna obbligatoriamente sul mercato — per un totale di 2 stagioni e mezzo col giocatore in rosa.</div>
+
+      <div class="callout">Esempio (opzione anticipata): compro a settembre, rinnovo a gennaio (1° rinnovo). A settembre, invece di rinnovare di nuovo, lo opziono. Il 2° rinnovo che avrei ancora a disposizione non si accumula: da qui ho comunque una sola azione finale, non due. La sfrutto rinnovandolo un'ultima volta a gennaio. La sessione successiva il giocatore torna sul mercato.</div>
 
       <h2 id="dritte">Qualche dritta (nozioni del Mantra da sapere)</h2>
 
