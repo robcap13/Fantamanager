@@ -1673,14 +1673,14 @@
     "nome": "Thuram",
     "squadraSerieA": "INT",
     "costo": 254,
-    "acquisto": "",
+    "acquisto": "set-26",
     "rinn1": "",
     "rinn2": "",
-    "opz": "feb-26",
+    "opz": "",
     "rinn3": "",
     "rinnovabile": true,
-    "opzionabile": false,
-    "stato": "Confermato (opzione esercitata)"
+    "opzionabile": true,
+    "stato": "Acquistato all'asta"
    }
   ],
   "speso": 915,
@@ -2654,20 +2654,6 @@
     "stato": "Acquistato all'asta"
    },
    {
-    "ruolo": "B,Ds,E",
-    "nome": "Obert",
-    "squadraSerieA": "CAG",
-    "costo": 10,
-    "acquisto": "feb-26",
-    "rinn1": "",
-    "rinn2": "",
-    "opz": "",
-    "rinn3": "",
-    "rinnovabile": true,
-    "opzionabile": true,
-    "stato": "Acquistato all'asta"
-   },
-   {
     "ruolo": "Dc",
     "nome": "Rrahmani",
     "squadraSerieA": "NAP",
@@ -2866,20 +2852,6 @@
     "stato": "Acquistato all'asta"
    },
    {
-    "ruolo": "A",
-    "nome": "Laurientè",
-    "squadraSerieA": "SAS",
-    "costo": 39,
-    "acquisto": "feb-26",
-    "rinn1": "",
-    "rinn2": "",
-    "opz": "",
-    "rinn3": "",
-    "rinnovabile": true,
-    "opzionabile": true,
-    "stato": "Acquistato all'asta"
-   },
-   {
     "ruolo": "pc",
     "nome": "Orban G.",
     "squadraSerieA": "",
@@ -2893,20 +2865,6 @@
     "opzionabile": true,
     "stato": "Confermato (rinnovo)",
     "fuoriSerieA": true
-   },
-   {
-    "ruolo": "Pc",
-    "nome": "Pellegrino M.",
-    "squadraSerieA": "FIO",
-    "costo": 44,
-    "acquisto": "set-25",
-    "rinn1": "feb-26",
-    "rinn2": "",
-    "opz": "",
-    "rinn3": "",
-    "rinnovabile": true,
-    "opzionabile": true,
-    "stato": "Confermato (rinnovo)"
    },
    {
     "ruolo": "Pc",
@@ -2935,9 +2893,51 @@
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
+   },
+   {
+    "ruolo": "Pc",
+    "nome": "Krstovic",
+    "squadraSerieA": "ATA",
+    "costo": 50,
+    "acquisto": "feb-26",
+    "rinn1": "",
+    "rinn2": "",
+    "opz": "",
+    "rinn3": "",
+    "rinnovabile": true,
+    "opzionabile": true,
+    "stato": "Acquistato all'asta"
+   },
+   {
+    "ruolo": "T,A",
+    "nome": "Maldini",
+    "squadraSerieA": "CAG",
+    "costo": 28,
+    "acquisto": "feb-26",
+    "rinn1": "",
+    "rinn2": "",
+    "opz": "",
+    "rinn3": "",
+    "rinnovabile": true,
+    "opzionabile": true,
+    "stato": "Acquistato all'asta"
+   },
+   {
+    "ruolo": "Dc",
+    "nome": "Pavlovic",
+    "squadraSerieA": "MIL",
+    "costo": 13,
+    "acquisto": "set-26",
+    "rinn1": "",
+    "rinn2": "",
+    "opz": "",
+    "rinn3": "",
+    "rinnovabile": true,
+    "opzionabile": true,
+    "stato": "Acquistato all'asta"
    }
   ],
-  "speso": 989,
+  "speso": 987,
   "numGiocatori": 29
  },
  {
@@ -2959,20 +2959,6 @@
     "opzionabile": true,
     "stato": "Acquistato all'asta",
     "fuoriSerieA": true
-   },
-   {
-    "ruolo": "Por",
-    "nome": "Provedel",
-    "squadraSerieA": "INT",
-    "costo": 14,
-    "acquisto": "feb-26",
-    "rinn1": "",
-    "rinn2": "",
-    "opz": "",
-    "rinn3": "",
-    "rinnovabile": true,
-    "opzionabile": true,
-    "stato": "Acquistato all'asta"
    },
    {
     "ruolo": "Por",
@@ -3352,16 +3338,7 @@
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
-   }
-  ],
-  "speso": 986,
-  "numGiocatori": 29
- },
- {
-  "id": "obbinatos",
-  "nome": "Obbinatos",
-  "manager": "Vittorio Orbinato",
-  "giocatori": [
+   },
    {
     "ruolo": "Por",
     "nome": "Bijlow",
@@ -3375,7 +3352,16 @@
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
-   },
+   }
+  ],
+  "speso": 976,
+  "numGiocatori": 29
+ },
+ {
+  "id": "obbinatos",
+  "nome": "Obbinatos",
+  "manager": "Vittorio Orbinato",
+  "giocatori": [
    {
     "ruolo": "Por",
     "nome": "Martinez Jo.",
@@ -3772,9 +3758,23 @@
     "rinnovabile": true,
     "opzionabile": false,
     "stato": "Confermato (opzione esercitata)"
+   },
+   {
+    "ruolo": "Por",
+    "nome": "Provedel",
+    "squadraSerieA": "INT",
+    "costo": 14,
+    "acquisto": "feb-26",
+    "rinn1": "",
+    "rinn2": "",
+    "opz": "",
+    "rinn3": "",
+    "rinnovabile": true,
+    "opzionabile": true,
+    "stato": "Acquistato all'asta"
    }
   ],
-  "speso": 797,
+  "speso": 807,
   "numGiocatori": 29
  },
  {
@@ -3894,20 +3894,6 @@
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
-   },
-   {
-    "ruolo": "Dc",
-    "nome": "Pavlovic",
-    "squadraSerieA": "MIL",
-    "costo": 13,
-    "acquisto": "",
-    "rinn1": "",
-    "rinn2": "",
-    "opz": "feb-26",
-    "rinn3": "",
-    "rinnovabile": true,
-    "opzionabile": false,
-    "stato": "Confermato (opzione esercitata)"
    },
    {
     "ruolo": "Dc",
@@ -4122,20 +4108,6 @@
     "stato": "Acquistato all'asta"
    },
    {
-    "ruolo": "Pc",
-    "nome": "Krstovic",
-    "squadraSerieA": "ATA",
-    "costo": 50,
-    "acquisto": "feb-26",
-    "rinn1": "",
-    "rinn2": "",
-    "opz": "",
-    "rinn3": "",
-    "rinnovabile": true,
-    "opzionabile": true,
-    "stato": "Acquistato all'asta"
-   },
-   {
     "ruolo": "A",
     "nome": "Leao",
     "squadraSerieA": "MIL",
@@ -4148,20 +4120,6 @@
     "rinnovabile": false,
     "opzionabile": true,
     "stato": "Confermato (rinnovo)"
-   },
-   {
-    "ruolo": "T,A",
-    "nome": "Maldini",
-    "squadraSerieA": "CAG",
-    "costo": 28,
-    "acquisto": "feb-26",
-    "rinn1": "",
-    "rinn2": "",
-    "opz": "",
-    "rinn3": "",
-    "rinnovabile": true,
-    "opzionabile": true,
-    "stato": "Acquistato all'asta"
    },
    {
     "ruolo": "A",
@@ -4190,9 +4148,51 @@
     "rinnovabile": true,
     "opzionabile": true,
     "stato": "Acquistato all'asta"
+   },
+   {
+    "ruolo": "B,Ds,E",
+    "nome": "Obert",
+    "squadraSerieA": "CAG",
+    "costo": 10,
+    "acquisto": "feb-26",
+    "rinn1": "",
+    "rinn2": "",
+    "opz": "",
+    "rinn3": "",
+    "rinnovabile": true,
+    "opzionabile": true,
+    "stato": "Acquistato all'asta"
+   },
+   {
+    "ruolo": "Pc",
+    "nome": "Pellegrino M.",
+    "squadraSerieA": "FIO",
+    "costo": 44,
+    "acquisto": "set-25",
+    "rinn1": "feb-26",
+    "rinn2": "",
+    "opz": "",
+    "rinn3": "",
+    "rinnovabile": true,
+    "opzionabile": true,
+    "stato": "Confermato (rinnovo)"
+   },
+   {
+    "ruolo": "A",
+    "nome": "Laurientè",
+    "squadraSerieA": "SAS",
+    "costo": 39,
+    "acquisto": "feb-26",
+    "rinn1": "",
+    "rinn2": "",
+    "opz": "",
+    "rinn3": "",
+    "rinnovabile": true,
+    "opzionabile": true,
+    "stato": "Acquistato all'asta"
    }
   ],
-  "speso": 980,
+  "speso": 982,
   "numGiocatori": 29
  }
 ]
