@@ -485,8 +485,8 @@ section.block .sub {
   font-weight: 700;
   padding: 2px 8px;
   border-radius: 999px;
-  background: rgba(201, 162, 39, 0.2);
-  color: var(--gold-bright);
+  background: rgba(179, 56, 44, 0.18);
+  color: var(--card-red);
   white-space: nowrap;
   cursor: help;
 }
