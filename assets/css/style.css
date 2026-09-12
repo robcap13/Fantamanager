@@ -455,6 +455,53 @@ section.block .sub {
   font-size: 0.78rem;
 }
 
+.options-declared {
+  padding: 8px 0 56px;
+  border-top: 1px solid var(--line);
+  margin-top: -24px;
+  padding-top: 32px;
+}
+
+.options-declared-title {
+  font-family: var(--font-display);
+  font-size: 1.1rem;
+  margin: 0 0 4px;
+}
+
+.options-declared-sub {
+  font-family: var(--font-body);
+  font-weight: 400;
+  font-size: 0.85rem;
+  color: var(--cream-dim);
+}
+
+.options-declared-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 16px;
+}
+
+.option-chip {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background: var(--pitch-800);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 8px 16px 8px 8px;
+}
+
+.option-chip-name {
+  font-weight: 700;
+}
+
+.option-chip-cost {
+  color: var(--cream-dim);
+  font-size: 0.82rem;
+  font-family: var(--font-display);
+}
+
 .view-toggle {
   display: flex;
   gap: 8px;
