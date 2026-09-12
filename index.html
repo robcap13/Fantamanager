@@ -33,7 +33,7 @@
 
     <div class="stat-row">
       <div class="stat"><span class="num">10</span><span class="label">Squadre in lega</span></div>
-      <div class="stat"><span class="num">290</span><span class="label">Giocatori sotto contratto</span></div>
+      <div class="stat"><span class="num" id="stat-giocatori">—</span><span class="label">Giocatori sotto contratto</span></div>
       <div class="stat"><span class="num">1000</span><span class="label">Fantamilioni di budget</span></div>
       <div class="stat"><span class="num">8+3</span><span class="label">Rinnovi + opzioni a testa</span></div>
     </div>
@@ -120,6 +120,14 @@
       }).join('');
     } catch (e) { console.error(e); }
   }
+  async function renderPlayerCount() {
+    try {
+      const rose = await loadJSON('rose.json');
+      const total = rose.reduce((sum, t) => sum + t.giocatori.length, 0);
+      document.getElementById('stat-giocatori').textContent = total;
+    } catch (e) { console.error(e); }
+  }
+  document.addEventListener('DOMContentLoaded', renderPlayerCount);
   document.addEventListener('DOMContentLoaded', renderHomeTeams);
 </script>
 </body>
