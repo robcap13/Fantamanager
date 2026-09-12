@@ -53,6 +53,28 @@ function renderTeam() {
 
   renderFilterCounts(team);
   renderTable(team);
+  renderOptionsDeclared(team);
+}
+
+function renderOptionsDeclared(team) {
+  const wrap = document.getElementById('options-declared');
+  const list = document.getElementById('options-declared-list');
+  const opzioni = team.opzioniDichiarate || [];
+
+  if (opzioni.length === 0) {
+    wrap.style.display = 'none';
+    return;
+  }
+
+  wrap.style.display = 'block';
+  list.innerHTML = opzioni.map((p) => `
+    <div class="option-chip">
+      <span class="role-pill">${p.ruolo || '—'}</span>
+      <span class="option-chip-name">${p.nome}</span>
+      <span class="serieA">${p.squadraSerieA || '—'}</span>
+      <span class="option-chip-cost">${formatCurrency(p.costo)} FM</span>
+    </div>
+  `).join('');
 }
 
 function renderFilterCounts(team) {
